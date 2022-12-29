@@ -3572,7 +3572,8 @@ var lightColors = __assign(__assign(__assign({}, baseColors), additionalColors),
 });
 var darkColors = __assign(__assign(__assign({}, baseColors), additionalColors), {
     secondary: "#fcd535",
-    background: "#000000",
+    // background: "#000015",
+    // background: 'url(/images/background.png)',
     backgroundDisabled: "#3c3742",
     backgroundAlt: "#000000",
     cardBorder: "#383241",
